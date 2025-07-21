@@ -109,7 +109,7 @@ const Footer = () => {
             © 2024 Virtualbridge. All rights reserved.
           </p>
           <p className="text-muted-foreground text-sm mt-2 md:mt-0">
-            Made with ❤️ in Hyderabad
+            Created by Shaik Akhil
           </p>
         </div>
       </div>
