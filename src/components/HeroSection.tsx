@@ -7,7 +7,7 @@ const HeroSection = () => {
   // Handler for Get Started button - navigates to main website
   const handleGetStarted = () => {
     // Replace with your actual website URL
-    window.open("https://virtualbridge.ai", "_blank");
+    window.open("https://www.infivr.com/?gad_source=1&gad_campaignid=14315529091&gbraid=0AAAAAC3eaLcUwcMvcB4bn_dVO_1_h3XJq&gclid=Cj0KCQjwyvfDBhDYARIsAItzbZGVa9-aCeWyszslZLF4enj2xUQNZIEMFfWPq1t3RolL8Zqo_zslPTQaAr7tEALw_wcB", "_blank");
   };
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
@@ -50,7 +50,7 @@ const HeroSection = () => {
               Get Started
             </Button>
             
-            <VideoModal videoId="dQw4w9WgXcQ">
+            <VideoModal videoId="PHXb_VAVpgY">
               <Button 
                 variant="outline" 
                 size="lg" 
